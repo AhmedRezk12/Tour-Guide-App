@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Gudie App Cairo</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="welcome">Welcome To Cairo , Egypt This Is Images For Cairo Be Ready To Enjoy</string>
+    <string name="historical">Historical Sites</string>
+    <string name="public_places">Public Places</string>
+    <string name="hotel">Hotels</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="details">location details</string>
+    <string name="location_address">location address</string>
+
+    <string name="ritz_carlton">The Nile Ritz-Carlton</string>
+    <string name="ritz_carlton_details">The hotel overlooks the River Nile It offers business and leisure travelers a luxury retreat in the heart of Cairo. The hotel blends the charming city with world-class services, offering great amenities including more than nine signature restaurants and bars, a luxurious spa and unprecedented service that promises an unforgettable haven.</string>
+    <string name="ritz_carlton_address">1113 Corniche El Nil, Qasr al-Nil, Cairo Governorate.</string>
+
+    <string name="four_season">Four Season</string>
+    <string name="four_season_details">stay in the heart of Cairo, with views of the Nile, Great Pyramids and ancient zoological gardens, and take in the best of the city\'s arts, culture and shopping just moments away. Cruise into Egypt\'s past on the felucca Nile cruise .</string>
+    <string name="four_season_address">35 Giza Street, Dokki A, Dokki, Giza.</string>
+
+    <string name="fairmont_nile">Fairmont Nile</string>
+    <string name="fairmont_nile_details">On the banks of the famed river Nile, the city of Cairo is the center of Egyptian culture and commerce. A melting pot of history and diversity, the city is ideal for both—business and leisure. Like the city itself, Fairmont Nile City offers a delightful series of contrasts, combining advanced technology and modern design with local flavors and flare. </string>
+    <string name="fairmont_nile_address">2005 B Corniche El Nil, Ramlet, Boulak, Cairo Governorate.</string>
+
+    <string name="pyramids">Pyramids</string>
+    <string name="pyramids_details">The Great Pyramid of Giza is a huge pyramid built by the Ancient Egyptians. It stands near Cairo, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain mostly intact. When it was built, Great Pyramid was covered by white stones that formed a smooth outer surface.</string>
+    <string name="pyramids_address">Haram, Giza</string>
+    
+    <string name="egyptian_museum">Egyptian Museum</string>
+    <string name="egyptian_museum_details">The Egyptian Museum is one of the largest and most prestigious museums in Egypt and the Middle East. The Egyptian Museum of Antiquities contains many important pieces of ancient Egyptian history. It houses the world\'s largest collection of Pharaonic antiquities. Opened all week days from 9:00 am to 5:00 pm.</string>
+    <string name="egyptian_museum_address">Tahrir Square rd Tahrir Square</string>
+
+    <string name="salah_el_din_castle">Salah El Din Castle</string>
+    <string name="salah_el_din_castle_details">When in Cairo, it is basically impossible to miss the Salah El-Din Citadel , one of the world\'s greatest monuments to medieval warfare. Resembling a typical early medieval fortress, with large imposing gateways, towers and high defending walls, the Citadel is one of Cairo\'s main attractions and probably the most popular non-pharaonic monument in the Egyptian capital. The prominent fortress houses three mosques - of which the impressive Mohamed Ali Mosque - a carriage museum, a military museum, and a garden museum, just to name a few, and they are all worth a visit. You are even allowed the run of the fortifications and it is worth a try: the views are spectacular from this height. The citadel is also home to the impressive Gawhara Palace (the Jewel Palace), named after Gawhara Hanem, Mohamed Ali\'s last wife. Built in 1814, it housed the ruler\'s administration and was used as a personal residence by the Egyptian leader. Beautiful gold inscriptions adorn the walls of this majestic Ottoman-influenced palace. One of its most eccentric components is the Watch Hall, where the shape of a watch has been used to decorate the walls. Ticket Price(s): Regular: 50 EGP Student: 25 EGP</string>
+    <string name="salah_el_din_castle_address">Al Abageyah, Qesm Al Khalifah, Cairo Governorate</string>
+
+    <string name="cairo_tower">Cairo Tower</string>
+    <string name="cairo_tower_details">The length of the tower is 187 meters which is 43 meters higher than the great pyramid of Cheapos. It is located in the middle of Cairo at the edge of Zamalek Island. Cairo Tower was built in the reign offormer Egyptian president Gamal Abdel Nasser. It cost 6 million pounds at the time it was built in the late 60s.</string>
+    <string name="cairo_tower_address">Zamalek, Cairo Governorate</string>
+    
+    <string name="el_moez_street">El Moez Street</string>
+    <string name="el_moez_street_details">Muizz Street (شارع المعز لدين الله الفاطمي) in Islamic Cairo, Egypt is one of the oldest streets in Cairo, approximately one kilometer long. A United Nations study found it to have the greatest concentration of medieval architectural treasures in the Islamic world. It stretches from Bab Al-Futuh in the north to Bab Zuweila in the south. The northern part of the street extends from the Al-Hakim Mosque in the north to the Spice Market at Al-Azhar Street and includes the antique markets section, Al-Aqmar Mosque (one of the few extant Fatimid mosques), the Qalawun complex, and several well preserved medieval mansions and palaces. The southern part extends from the Ghuriya complex to the Bab Zuweila and includes the magnificent Tent Market in the Gamaliya district.</string>
+    <string name="el_moez_street_address">El Moez Street , Cairo</string>
+
+    <string name="khan">Khan El-Khalili</string>
+    <string name="khan_details">No visit to Cairo is Complete without a stop at the Khan El-Khalili bazaar, where you will be transported back in time to an old Arab souk. Shop owners calling you to their stalls, the scent of spices, the hustle and bustle of trade, and the many beautiful objects that can purchased will have you lost among alleys for hours. Put your haggling skills to the test when buying statuettes, spices, souvenirs, silver jewellery, t-shirts, galabiyyas, belly dancing costumes, or anything for that matter. When your shopping\'s done, dont miss out on a traditional cup of tea at the famous Fishawi\'s cafe.</string>
+    <string name="khan_address">Al-jamalia , Department of Al-jamalia, Cairo Governorate</string>
+
+    <string name="sobhy_kaber">Sobhy Kaber</string>
+    <string name="sobhy_kaber_details">One of the most famous restaurants. It serves delicious Egyptian dishes of grills, meat, casseroles and oriental food.</string>
+    <string name="sobhy_kaber_address">Obaid St., El Safwa Towers in front of the Electricity Company, El Sahel, Cairo Governorate</string>
+
+    <string name="el_gahsh">El Gahsh</string>
+    <string name="el_gahsh_details">One of the most famous restaurants. It serves delicious Egyptian dishes that are served at breakfast such as beans, falafel, eggplant and salad with fresh bread. It is considered the basic breakfast for the Egyptians</string>
+    <string name="el_gahsh_address">4 Marcina St. El Sayeda Zeinab, Abdel Magid El Labban, El Hanafy, El Sayeda Zeinab, Cairo Governorate</string>
+
+    <string name="sayed_hanfey">Sayed Hanfey</string>
+    <string name="sayed_hanfey_details">One of the most famous restaurants. Koshary is one of the most famous Egyptian dishes and consists of rice, lentils, pasta, hummus and tomato sauce.</string>
+    <string name="sayed_hanfey_address">5 Orabi Sq Downtown, Cairo</string>
+</resources>
